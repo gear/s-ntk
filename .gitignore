@@ -1,6 +1,7 @@
 # Datasets and experiments
 data/
-notebooks
+notebooks/
+*.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
